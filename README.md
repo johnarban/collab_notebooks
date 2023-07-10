@@ -4,4 +4,4 @@ Notebooks can be viewed without a Google account. To edit your copy of a noteboo
 
 # Homework 1
 
-- [Google Collab](https://colab.research.google.com/github/johnarban/collab_notebooks/blob/main/HW_1.ipynb)
+- [Google Collab](https://colab.research.google.com/github/johnarban/collab_notebooks/blob/main/homeworks/HW_1.ipynb)
